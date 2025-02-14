@@ -130,6 +130,20 @@ Bevis ved moteksempel/motbevis
 >
 >- Påstand: Det finnes et uendelig antall primtall.
 >- **Bevis:** Anta at det er et endelig antall primtall, la dem være p1, p2, ... pn​. Konstruer tallet P = p1 * p2 * ... * pn + 1. Dette tallet er ikke delelig med noen av de kjente primtallene, så det må enten være et nytt primtall eller ha et annet primtall som faktor. Dermed finnes det et uendelig antall primtall, uten å spesifisere hvilke.
+
+> [!info] Ekvivalensrelasjon
+> En mengde som er:
+>- Refleksiv
+>- Antisymmetrisk
+>- Transitivit
+>^ekvivalensrelasjon
+
+> [!info] Delt ordning
+> En
+> - Refleksivitet
+> - Antisymmetri 
+>Transitivitet
+>^deltordning
 ## Mengder og diskrete strukturer
 #mengder-og-diskrete-strukturer 
 
@@ -145,6 +159,9 @@ Bevis ved moteksempel/motbevis
 
 injektiv og surjektiv
 
+[delvis ordning](#^delvisordning
+[ekvivalensrelasjon](#^ekvivalensrelasjon)
+total ordning (a,b)L(b,a)
 [oving2](Assignments/Oving2/Solution.pdf)
 
 
@@ -152,7 +169,7 @@ injektiv og surjektiv
 #Utsagnslogikk
 - 05 - [Utsagnslogikk, sannheter og logisk ekvivalens](obsidian://open?vault=Hetlesaether&file=School%2FNTNU-V25%2F%20TMA4140%20Discrete%20mathematics%2FLectures%2F05%20-%20Utsagnslogikk%2C%20sannheter%20og%20logisk%20ekvivalens.pdf)
 - 06 - [Utsagnslogikk2](obsidian://open?vault=Hetlesaether&file=School%2FNTNU-V25%2F%20TMA4140%20Discrete%20mathematics%2FLectures%2F06%20-%20utsagnslogikk2.pdf)
-### **Utsagnslogikk (Propositional Logic)**
+### **[Utsagn](#^utsagn)slogistikk(Propositional Logic)**
 
 1. **Sannhetsverdier (Truth Values)**
     
