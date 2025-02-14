@@ -231,16 +231,16 @@ Predikatlogikk lar deg **iterere gjennom variabler**, **sjekke betingelser**, og
 #bevis-og-bevisteknikker
 
 09 - [bevisteknikk 1](./Lectures/09%20-%20bevisteknikk1.pdf)
-10 - [bevisteknikk 2](./Lectures/10%20-%20bevisteknikk2.pdf))
-[Beivser](#^beviser) er å verifisere at en påstand er riktig matematisk. I faget er det en det en del ulike bevis vi kommer til å bruke: 
+10 - [bevisteknikk 2](./Lectures/10%20-%20bevisteknikk2.pdf)
 
-[Direkte bevis](#^direktebevis) (P⇒Q)
-[Kontrapositivt bevis](#^kontrapositivtbevis)P⇒Q⇔¬Q⇒¬P)
-[Motsigelsesbevis](#^motsigelsesbevis) (¬P⇒⊥)
-[Motbevis](#^motbevis) 
-[Inuksjonsbevis](^#induksjonsbevis) (coming soon)
-Bevis ved moteksempel/motbevis (finn 1 x som ikke funker)
-Ikke-Konstruktive bevis (finn 1 passende x)
+- [Beivser](#^beviser) er å verifisere at en påstand er riktig matematisk. I faget er det en det en del ulike bevis vi kommer til å bruke: 
+- [Direkte bevis](#^direktebevis) (P⇒Q)
+- [Kontrapositivt bevis](#^kontrapositivtbevis)P⇒Q⇔¬Q⇒¬P)
+- [Motsigelsesbevis](#^motsigelsesbevis) (¬P⇒⊥)
+- [Motbevis](#^motbevis) 
+- [Inuksjonsbevis](^#induksjonsbevis) (coming soon)
+- Bevis ved moteksempel/motbevis (finn 1 x som ikke funker)
+- Ikke-Konstruktive bevis (finn 1 passende x)
 
 # Rekursjon og induksjon
 #rekursjon-og-induksjon
